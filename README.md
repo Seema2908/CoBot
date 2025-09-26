@@ -1,2 +1,1 @@
-# CoBot
-eyantra robot project
+# Robot
